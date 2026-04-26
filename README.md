@@ -43,9 +43,8 @@ I care about the boring parts: spec clarity, test coverage, deployment hygiene, 
 
 ### 📫 Get in touch
 
-- 💼 LinkedIn: [your-linkedin-handle]
-- 🐦 X / Twitter: [your-twitter-handle]
-- ✉️ Email: [your-public-email]
+- ✉️ Email: jogh1020@126.com
+- ✉️ Email: guo487621@gmail.com
 
 ---
 
